@@ -1,0 +1,9 @@
+p::after
+{content: "this is end of paragraph";}
+h1::before
+{content: "Akshita";}
+h1::first-letter
+{font-size: 50px;}
+p::first-line
+{font-style: italic;
+background-color: aqua;}

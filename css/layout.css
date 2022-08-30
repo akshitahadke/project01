@@ -1,0 +1,71 @@
+*{
+     margin: 0px;
+     padding: 0px;
+}
+.main{
+     height: 1024px;
+width: 750px;
+margin: auto;
+}
+.header{
+     height: 150px;
+width: 750px;
+
+float: left;
+}
+.logo{
+     height:150px;
+     width: 200px;
+     background-image: url(images/logo1.jpg);
+background-position:center;
+float: left;
+}
+.socialmedia{
+     height: 100px;
+width:550px;
+background-color:black;
+
+float: left;
+}
+
+.menu{
+     height: 50px;
+width:550px;
+background-color: black;
+float: left;
+}
+
+.menu ul li {
+  background-color:orange;
+  float: left;
+  display: block;
+  width: 95px;
+  height: 35px;
+  margin-top: 10px;
+  margin-left: 10px;
+  text-align: center;
+  border-radius: 10px;
+   }
+.menu ul li :hover{
+  background-color:red;
+     color: aliceblue;
+}
+.container{height: 824px;
+width: 750px;
+background-image: url(/images/dance\ image.jpg);
+background-size: cover;
+background-position: center;
+}
+h1{
+     display: inline-block;
+     margin-top: 150px; 
+     margin-left: 25%;
+     color: aliceblue;
+     font-size: 60px;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     }
+.footer{
+height:50px;
+width:750px;
+background-color: black;
+}

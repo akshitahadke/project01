@@ -1,0 +1,145 @@
+.main{background-color: black;
+height: 700px;
+width: 800px;
+margin-left: 350px;
+margin-top: 30px;
+border-radius: 200px 200px 200px 200px;
+border-top: 20px solid green;
+border-bottom: 20px solid green;
+border-left: 10px solid green;
+border-right: 10px solid green;}
+.main:hover{background-color: greenyellow;}
+.a{margin-left: 240px;  margin-top: 190px;
+    background-color: red;
+    height: 30px;
+    width: 30px;
+position: absolute;
+top: 100px;
+left: 500px;
+}
+.a:hover{background-color: blue;
+color: aqua;
+border-radius: 15px;}
+
+.b{margin-left: 240px;  margin-top: 190px;
+    background-color: red;
+    height: 30px;
+    width: 30px;
+position:absolute;
+top: 140px;
+left: 460px;}
+.b:hover{background-color: blue;
+    color: aqua;
+    border-radius: 15px;}
+.c{margin-left: 240px;  margin-top: 190px;
+    background-color: red;
+    height: 30px;
+    width: 30px;
+position: absolute;
+top: 140px;
+left: 540px;}
+.c:hover{background-color: blue;
+    color: aqua;
+    border-radius: 15px;}
+.d{margin-left: 240px;  margin-top: 190px;
+    background-color: red;
+    height: 30px;
+    width: 30px;
+position: absolute;
+top: 180px;
+left: 435px;}
+.d:hover{background-color: blue;
+    color: aqua;
+    border-radius: 15px;}
+.e{margin-left: 240px;  margin-top: 190px;
+    background-color: red;
+    height: 30px;
+    width: 30px; 
+    position: absolute;
+top: 220px;
+left: 470px;}
+.e:hover{background-color: blue;
+    color: aqua;
+    border-radius: 15px;}
+.f{margin-left: 240px;  margin-top: 190px;
+    background-color: red;
+    height: 30px;
+    width: 30px;
+position: absolute;
+top: 220px;
+left: 525px;}
+.f:hover{background-color: blue;
+    color: aqua;
+    border-radius: 15px;}
+.g{margin-left: 240px;  margin-top: 190px;
+    background-color: red;
+    height: 30px;
+    width: 30px;
+position: absolute;
+top: 180px;
+left:560px
+ ;}
+ .g:hover{background-color: blue;
+    color: aqua;
+    border-radius: 15px;}
+.h{margin-left: 240px;  margin-top: 190px;
+    background-color: red;
+    height: 30px;
+    width: 30px;
+position: absolute;
+top: 220px;
+left: 405px;}
+.h:hover{background-color: blue;
+    color: aqua;
+    border-radius: 15px;}
+.i{margin-left: 240px;  margin-top: 190px;
+    background-color: red;
+    height: 30px;
+    width: 30px;
+position: absolute;
+top: 220px;
+left:580px;}
+.i:hover{background-color: blue;
+    color: aqua;
+    border-radius: 15px;}
+.j{margin-left: 240px;  margin-top: 190px;
+    background-color: red;
+    height: 30px;
+    width: 30px;
+position: absolute;
+top: 260px;
+left: 385px;}
+.j:hover{background-color: blue;
+    color: aqua;
+    border-radius: 15px;}
+.k{margin-left: 240px;  margin-top: 190px;
+    background-color: red;
+    height: 30px;
+    width: 30px;
+position: absolute;
+top: 260px;
+left: 600px;}
+.k:hover{background-color: blue;
+    color: aqua;
+    border-radius: 15px;}
+.l{margin-left: 240px;  margin-top: 190px;
+    background-color: red;
+    height: 30px;
+    width: 30px;
+position: absolute;
+top: 300px;
+left: 365px;}
+.l:hover{background-color: blue;
+    color: aqua;
+    border-radius: 15px;}
+.m{margin-left: 240px;
+    margin-top: 190px;
+    background-color: red;
+    height: 30px;
+    width: 30px;
+position: absolute;
+top: 300px;
+left: 620px;}
+.m:hover{background-color: blue;
+    color: aqua;
+    border-radius: 15px;}

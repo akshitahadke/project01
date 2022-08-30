@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: century gothic;
+}
+header{
+    background-image: url(/images/balpande.jpeg);
+    background-size: cover;
+    background-position: center;
+    height:100vh;
+}
+ul{
+    float: right;
+    list-style-type: none;
+    margin-top: 20px;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: red;
+    padding: 5px 5px;
+    
+}
+.main{
+    
+}

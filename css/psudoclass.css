@@ -1,0 +1,17 @@
+.k{background-color: brown;}
+h1:hover{background-color: aquamarine;
+color: white;
+border: 50px solid orange;}
+a:link{
+    background-color:green
+}
+a:visited{
+    background-color: yellow;
+}
+a:active{
+    background-color: orangered;
+}
+a:hover{
+    background-color: black;
+    color: white;
+}

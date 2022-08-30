@@ -1,0 +1,66 @@
+.main{
+    margin: auto;
+    height: 367px; 
+    width: 510px ;
+}
+.header{
+    height: 50px;
+    width: 510px;
+    text-align: center;
+    color: green;
+    line-height: 50px;
+    border: 1px solid black;
+}
+.navigationmenu{
+    height: 50px;
+    width: 510px;
+    text-align: center;
+    color: green;
+    line-height: 50px;
+    border: 1px solid black;
+    margin-top: 3px;
+}
+.container{
+    height: 200px;
+    width: 510px;
+   margin-top: 3px;
+}
+.content{
+    height: 200px;
+    width: 100px;
+    color: green;
+    text-align: center;
+    line-height: 200px;
+    float: left;
+    border: 1px solid black;
+}
+.maincontent{
+    height: 200px;
+    width: 300px;
+    color: green;
+    text-align: center;
+    line-height: 200px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 3px;
+}
+.othercontent{
+    height: 200px;
+    width: 98.01px;
+    color: green;
+    text-align: center;
+    line-height: 200px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 3px; 
+}
+.footer{
+    height: 50px;
+    width: 510px;
+    margin-top: 5px;
+    border: 1px solid black;
+    text-align: center;
+    color: green;
+    line-height: 50px;
+}
+   

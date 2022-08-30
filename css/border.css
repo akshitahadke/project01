@@ -1,0 +1,13 @@
+.main{
+    height: 200px;
+width: 600px;
+background-color:red;
+border-radius: 50px 200px 300px 400px;
+border-top: 20px solid greenyellow;
+border-bottom: 20px solid greenyellow;
+border-left: 10px dotted greenyellow;
+border-right: 10px dotted greenyellow;
+
+
+
+}

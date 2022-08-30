@@ -1,0 +1,59 @@
+.main{
+    height: 670px;
+    width: 900px;
+    margin: auto;
+}
+.header{
+    height: 90px;
+    width: 900px;
+    background-color: green;  
+    
+}
+
+.header h2{  
+    line-height: 90px;
+    text-align: center;
+    color: white;
+}
+
+.container{
+    height: 500px;
+    width: 900px;
+   margin-top: 15px;
+  
+ }
+ .sidebar{
+    height: 500px;
+    width: 300px;
+    float: left;
+    background-color: green;  
+ }
+.sidebar h2{
+    line-height: 500px;
+    text-align: center;
+    color: white;
+}
+ .content{
+    height: 500px;
+    width: 585px;
+float: left;
+margin-left: 15px;
+background-color:green;
+ }
+.content h2{
+    line-height: 500px;
+    text-align: center;
+    color: white; 
+}
+ 
+.footer{
+    height: 50px;
+    width: 900px;
+    text-align: center;
+    margin-top: 15px;
+    background-color: green;
+}
+.footer h2 {line-height: 50px;
+text-align: center;
+color: white;
+}

@@ -1,0 +1,136 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    margin: auto;
+    height: 1024px;
+    width: 750px;
+    background-color: black;
+    color: aliceblue;
+}
+.header{
+    height: 150px;
+    width: 750px;
+}
+.logo{
+    height: 150px;
+    width: 200px;
+    background-image: url(images/logo1.jpg);
+    float: left;
+    background-position: center;
+}
+.socialmedia{
+    height: 100px;
+    width: 550px;
+   color: red;
+    float: left;
+}
+.socialmedia ul li{
+    float: left;
+    display: block;
+    width: 170px;
+height: 30px;
+margin-left: 10px;
+margin-top: 5px;
+text-align: center;
+background-color: orange;
+line-height: 30px;
+}
+.socialmedia h3{
+    text-align: center;
+    margin-top: 5px;
+}
+
+
+.menu{
+    height: 50px;
+    width: 550px;
+    background-color:black;
+    float: left;
+}
+.menu ul li{
+    float: left;
+    display: block;
+    width: 95px;
+    height: 35px;
+    margin-top: 8px;
+    margin-left: 13px;
+    background-color: red;
+    text-align: center;
+    line-height: 35px;
+   }
+.menu ul li :hover{
+    background-color: black;
+    color: white;
+}
+.container{
+    height: 824px;
+    width: 750px;
+}
+.carasoule{
+    height: 400px;
+    width: 750px;
+    float: left;
+    background-image: url(/images/dance\ image.jpg);
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    display: inline-block;
+    margin-top: 25px; 
+    margin-left:25%;
+    color:white;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+
+.gallery{
+    height: 424px;
+    width: 750px;
+    
+    float: left;
+}
+.dancestyles{
+    height: 424px;
+    width: 180px;
+    background-color:orangered;
+    float: left;
+    border: 3.73px solid black;
+   
+}
+.dancestyles h3{
+    width: 160px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: rgb(255, 174, 0);
+    text-align: center;
+    line-height: 40px;
+    font-size:medium;
+}
+.dancestyles img{
+    height: 200px;
+    width: 160px;
+    align-items:center;
+    margin-top: 20px;
+}
+.dancestyles h4{
+    margin-left: 10px;
+}
+.footer{
+    height: 50px;
+    width: 750px;
+    background-color: orangered;
+    color: black;
+    text-align: right;
+     margin-top: 10px;}
+.footer h6{
+       margin-top: 30px;
+        text-align: left;
+   float: left;
+     }
+.footer h5{
+    float: right;
+}
